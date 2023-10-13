@@ -8,8 +8,8 @@
 - '/users'
 Endpoint for actions with users data
   
-	  - Method: GET | query: userEmail
-	  returns user by his email
+    - Method: GET | query: userEmail
+    returns user by his email
   
     - Method: POST | body includes: name, username, email and password
     creates new user and returns it
